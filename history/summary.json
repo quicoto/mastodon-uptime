@@ -1,20 +1,40 @@
 [
   {
-    "name": "Ricard Social",
+    "name": "API Health",
     "url": "https://ricard.social/api/v1/streaming/health",
     "icon": "https://icons.duckduckgo.com/ip3/ricard.social.ico",
-    "slug": "ricard-social",
+    "slug": "api-health",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 742,
-    "timeDay": 618,
-    "timeWeek": 742,
-    "timeMonth": 742,
-    "timeYear": 742,
+    "time": 437,
+    "timeDay": 437,
+    "timeWeek": 437,
+    "timeMonth": 437,
+    "timeYear": 437,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Mastodon FE",
+    "url": "https://ricard.social/",
+    "icon": "https://icons.duckduckgo.com/ip3/ricard.social.ico",
+    "slug": "mastodon-fe",
+    "status": "down",
+    "uptime": "20.28%",
+    "uptimeDay": "20.28%",
+    "uptimeWeek": "20.28%",
+    "uptimeMonth": "20.28%",
+    "uptimeYear": "20.28%",
+    "time": 139,
+    "timeDay": 139,
+    "timeWeek": 139,
+    "timeMonth": 139,
+    "timeYear": 139,
+    "dailyMinutesDown": {
+      "2023-02-16": 0
+    }
   }
 ]
