@@ -22,19 +22,19 @@
     "url": "https://ricard.social/",
     "icon": "https://icons.duckduckgo.com/ip3/ricard.social.ico",
     "slug": "mastodon-fe",
-    "status": "down",
-    "uptime": "3.10%",
-    "uptimeDay": "3.10%",
-    "uptimeWeek": "3.10%",
-    "uptimeMonth": "3.10%",
-    "uptimeYear": "3.10%",
-    "time": 139,
-    "timeDay": 139,
-    "timeWeek": 139,
-    "timeMonth": 139,
-    "timeYear": 139,
+    "status": "up",
+    "uptime": "0.73%",
+    "uptimeDay": "0.73%",
+    "uptimeWeek": "0.73%",
+    "uptimeMonth": "0.73%",
+    "uptimeYear": "0.73%",
+    "time": 245,
+    "timeDay": 245,
+    "timeWeek": 245,
+    "timeMonth": 245,
+    "timeYear": 245,
     "dailyMinutesDown": {
-      "2023-02-16": 0
+      "2023-02-16": 9
     }
   }
 ]
