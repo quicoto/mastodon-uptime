@@ -1,7 +1,7 @@
 url: https://ricard.social/
-status: up
-code: 200
-responseTime: 208
-lastUpdated: 2023-02-17T23:01:56.089Z
+status: down
+code: 500
+responseTime: 135
+lastUpdated: 2023-02-18T20:08:08.386Z
 startTime: Thu Feb 16 2023 09:14:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
